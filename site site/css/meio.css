@@ -1,0 +1,7 @@
+/* imagem do fundo no começo */
+.fundo{
+background-image: url(../imagens/fundopngpesoasetela.png);
+width: 100%;
+height: 100%;
+background-repeat: no-repeat;
+}
